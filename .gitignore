@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+env/
+venv/
+*.sqlite3
+
+# Models and logs
+fine_tuned_model/
+logs/
+results/
+
+# OS files
+.DS_Store
+Thumbs.db
+
